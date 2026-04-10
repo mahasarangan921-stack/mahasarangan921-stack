@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Mahalakshmi S
+Frontend Developer in training
 
-<!--
-**mahasarangan921-stack/mahasarangan921-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA · SRM Arts and Science College, Chengalpattu
 
-Here are some ideas to get you started:
+I build responsive, interactive web interfaces using HTML, CSS, and JavaScript.
+My work ranges from real client websites to productivity tools and booking systems —
+projects built to function, not just to exist in a repo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+HTML5 · CSS3 
+
+JavaScript · DOM Manipulation 
+
+Responsive Design · Git & GitHub
+
+Open to frontend roles, internships, and freelance collaborations.
+📧 mahasarangan921@gmail.com 
+## LinkedIn
+linkedin.com/in/mahalakshmi-s-b370a63a0
+
