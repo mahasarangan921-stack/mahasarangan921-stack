@@ -1,21 +1,22 @@
-## Hi, I'm Mahalakshmi S
-Frontend Developer in training
+# Hi, I'm Mahalakshmi S 👋
 
-BCA · SRM Arts and Science College, Chengalpattu
+### BCA Student | MERN Stack Developer
 
-I build responsive, interactive web interfaces using HTML, CSS, and JavaScript.
-My work ranges from real client websites to productivity tools and booking systems —
-projects built to function, not just to exist in a repo.
+🎓 BCA — SRM Arts and Science College, Chengalpattu
 
-## Stack
-HTML5 · CSS3 
+I build clean, responsive, full-stack web applications using **React, Node.js, Express, and MongoDB**, turning ideas into practical products.
 
-JavaScript · DOM Manipulation 
+### Tech Stack
+React · JavaScript · HTML · CSS · Tailwind CSS  
+Node.js · Express · MongoDB · SQL · Git · GitHub
 
-Responsive Design · Git & GitHub
+### Featured
+🚀 **USwap** — Full-stack file transfer platform  
+🎯 **Lottery Results Platform** — Automated results & search  
 
-Open to frontend roles, internships, and freelance collaborations.
-📧 mahasarangan921@gmail.com 
+Currently sharpening **DSA, problem-solving, and full-stack development**.
+
+📫 Open to internships & entry-level opportunities.
 
 ## Connect with me:
 
